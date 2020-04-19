@@ -24,7 +24,7 @@ tau1 = 0;
 figure(5);
 %Limits for calculating the slope of TAU and A
 beg = 1 ;
-fin = 3;
+fin = 2;
 hold on
  for i = 1:length(Q)
 
